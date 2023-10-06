@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="media_control_icon_size">40dp</dimen>
+    <dimen name="textsize">18dp</dimen>
+</resources>

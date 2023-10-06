@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">CameraRecorder</string>
+  <string name="app_record">Record\nVideo</string>
+  <string name="capture_guide">Tap for video\n</string>
+</resources>
